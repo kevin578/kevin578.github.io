@@ -1,14 +1,14 @@
 {
-  "main.css": "static/css/main.14fb27be.css",
-  "main.css.map": "static/css/main.14fb27be.css.map",
-  "main.js": "static/js/main.0e57e4d6.js",
-  "main.js.map": "static/js/main.0e57e4d6.js.map",
+  "main.css": "static/css/main.1fa52244.css",
+  "main.css.map": "static/css/main.1fa52244.css.map",
+  "main.js": "static/js/main.f37e5860.js",
+  "main.js.map": "static/js/main.f37e5860.js.map",
   "static/media/arrow1.svg": "static/media/arrow1.2a1b7d12.svg",
   "static/media/football.svg": "static/media/football.54b072b4.svg",
+  "static/media/grad.png": "static/media/grad.bd6e8622.png",
   "static/media/mrtk1.png": "static/media/mrtk1.8818672c.png",
+  "static/media/passport.png": "static/media/passport.6bcbcf97.png",
   "static/media/pet.png": "static/media/pet.f9d57985.png",
   "static/media/profile.jpg": "static/media/profile.81618489.jpg",
-  "static/media/scissors.svg": "static/media/scissors.0101a2ab.svg",
-  "static/media/simon.svg": "static/media/simon.9728aff7.svg",
-  "static/media/tomato.png": "static/media/tomato.2017f1f1.png"
+  "static/media/simon.svg": "static/media/simon.9728aff7.svg"
 }
